@@ -1,5 +1,5 @@
 // Cấu hình URL dựa trên dữ liệu thực tế của bạn
-const BASE_URL = 'http://192.168.0.200/api1';
+const BASE_URL = 'https://bath-cameron-webcams-heaven.trycloudflare.com/api1';
 let allMovies = []; // Biến lưu trữ danh sách phim gốc để search không cần load lại API
 
 // 1. Lấy danh sách phim từ Backend
